@@ -1,4 +1,4 @@
-# IBM_ML_course_supervised
+# Supervised Learning Algorithms
 
 This codes implemented by IBM machine learning with python course. There is some supervised learning algorithms in this repo.
 You can install packages, which I used in jupyter notebooks.
