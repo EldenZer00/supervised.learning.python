@@ -13,7 +13,7 @@ Algorithms:
 **Logistic Regression**
 
 
-<h2> References </h2>
+## Datasets
 https://www.kaggle.com/uciml/pima-indians-diabetes-database - Decision Tree, KNN dataset
 
 https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/cell_samples.csv - SVM dataset
