@@ -1,6 +1,6 @@
-# Supervised Learning Algorithms
+# Supervised Learning Algorithms Implemented With Python
 
-In this repository you can see some supervised learning models, which is writing in scikit-learn library in Python.
+In this repository you can see some supervised learning models, which is wrote in scikit-learn library in Python.
 
 Algorithms:
 
